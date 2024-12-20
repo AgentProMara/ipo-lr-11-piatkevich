@@ -306,7 +306,7 @@ def show_about():
         dpg.add_text("Версия: 1.0")
         dpg.add_text("Лабораторная работа номер 12")
         dpg.add_text("Вариант: 2")
-        dpg.add_text("Разработчик: Рамизовская Екатерина Олеговна")
+        dpg.add_text("Разработчик: Петкевич Марат Дмитриевич ")
         dpg.add_text("Группа 81 ТП")
         dpg.add_text("Описание: Система управления клиентами и транспортными средствами.")
         dpg.add_button(label="Закрыть", callback=lambda: dpg.delete_item("about_window"))
